@@ -1,4 +1,0 @@
-Flask==3.1.0
-numpy==2.2.0
-pandas==2.2.3
-scikit_learn==1.4.1.post1
